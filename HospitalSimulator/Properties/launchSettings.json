@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HospitalSimulatorConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D,F,F\" \"As,I\""
+    }
+  }
+}
